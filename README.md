@@ -22,7 +22,7 @@ Para executar este projeto, siga as etapas abaixo:
 
 2. Também pode clicar no botão "Open in Colab" abaixo para abrir e interagir com o projeto no Google Colab. Isso permite que você veja o projeto e execute-o diretamente no ambiente do Google Colab sem a necessidade de clonar o repositório para sua máquina.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/1RGkDo3PfupoCtHvsrjokoFm_KZgVyLiI?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGkDo3PfupoCtHvsrjokoFm_KZgVyLiI?usp=sharing)
 
 3. Alternativamente, você pode clonar o repositório em sua máquina local e abrir o arquivo `Analise_Infracoes_de_Transito.ipynb` em seu ambiente de preferência (Jupyter Notebook, etc.).
 
