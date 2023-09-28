@@ -14,11 +14,21 @@ Este repositório contém um projeto de análise de autuações de trânsito que
 - Visualizações interativas dos dados
 - Integração com bibliotecas populares de ciência de dados
 
-### Instruções de Uso
+## Configuração do Ambiente e Execução
 
-1. Clone o repositório para a sua máquina local.
-2. Siga as instruções do arquivo `README.md` para configurar o ambiente e executar o projeto.
-3. Explore os notebooks Jupyter e scripts Python para acessar as análises e modelos desenvolvidos.
+Para executar este projeto, siga as etapas abaixo:
+
+1. Clone o repositório em sua máquina local.
+
+2. Abra o arquivo `Analise_Infracoes_de_Transito.ipynb` em seu ambiente de preferência (Google Colab, Jupyter Notebook, etc.).
+
+3. Execute as células do notebook de acordo com as instruções fornecidas.
+
+**Nota**: Todas as dependências necessárias já estão incluídas no notebook. Você não precisa instalar bibliotecas adicionais.
+
+## Aviso sobre o Mapa (Folium)
+
+Dependendo do navegador que você está usando para visualizar o notebook diretamente no GitHub, a biblioteca Folium pode não permitir que o mapa seja exibido corretamente. Para uma experiência completa, é recomendável que você execute o arquivo `Analise_Infracoes_de_Transito.ipynb` em seu próprio ambiente (Google Colab, Jupyter Notebook, etc.), onde a visualização do mapa funcionará conforme o esperado.
 
 ### Contribuição
 
