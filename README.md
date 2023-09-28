@@ -24,7 +24,7 @@ Para executar este projeto, siga as etapas abaixo:
 
 2. Se o passo 1 não funcionar: Você pode clicar no arquivo `Analise_Infracoes_de_Transito.ipynb`, o que abrirá o preview do notebook no GitHub, no topo do notebook o botão "Open in Colab" aparecerá e você poderá abrir o arquivo diretamente no Google Colab clicando no botão. Isso também permitirá que você veja e interaja com o projeto no Google Colab sem a necessidade de clonar o repositório para sua máquina.
 
-3. Alternativamente, você pode clonar o repositório em sua máquina local e abrir o arquivo `Analise_Infracoes_de_Transito.ipynb` em seu ambiente de preferência (Jupyter Notebook, etc.).
+3. FUTURAMENTE (Atualmente não dará certo por incompatibilidades do Google Drive): Alternativamente, você pode clonar o repositório em sua máquina local e abrir o arquivo `Analise_Infracoes_de_Transito.ipynb` em seu ambiente de preferência (Jupyter Notebook, etc.).
 
 **Nota**: Todas as dependências necessárias já estão incluídas no notebook. Você não precisa instalar bibliotecas adicionais.
 
