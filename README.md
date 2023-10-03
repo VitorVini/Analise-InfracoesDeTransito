@@ -19,9 +19,9 @@ Este repositório contém um projeto de análise de autuações de trânsito que
 Para executar este projeto, siga as etapas abaixo:
 
 1. Você pode clicar no botão "Open in Colab" abaixo para abrir e interagir com o projeto no Google Colab. Isso permite que você veja o projeto e execute-o diretamente no ambiente do Google Colab sem a necessidade de clonar o repositório para sua máquina.
-**Nota**: Não rode novamente as células do Notebook - Não é necessário para interagir com os gráficos interativos e com o mapa.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RGkDo3PfupoCtHvsrjokoFm_KZgVyLiI?usp=sharing)
+**Nota**: Não rode novamente as células do Notebook - Não é necessário para interagir com os gráficos interativos e com o mapa.
 
 2. Se o passo 1 não funcionar: Você pode clicar no arquivo `Analise_Infracoes_de_Transito.ipynb`, o que abrirá o preview do notebook no GitHub, no topo do notebook o botão "Open in Colab" aparecerá e você poderá abrir o arquivo diretamente no Google Colab clicando no botão. Isso também permitirá que você veja e interaja com o projeto no Google Colab sem a necessidade de clonar o repositório para sua máquina.
 
